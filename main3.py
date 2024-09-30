@@ -3,3 +3,4 @@ def afficher(n=10):
         print("_"*i)
 
 afficher()
+print("ho")
