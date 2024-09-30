@@ -1,2 +1,5 @@
-print("How you all doing ?")
-print("cool")
+def afficher(n=10):
+    for i in range(n):
+        print("_"*i)
+
+afficher()
